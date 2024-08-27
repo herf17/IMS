@@ -1,1 +1,1 @@
-# InventoryMS
+# IMS
